@@ -12,3 +12,4 @@ c:\Users\filip.scherlund\Documents\My Games\Hangman\Hangman\obj\Debug\net8.0\ref
 c:\Users\filip.scherlund\Documents\My Games\Hangman\Hangman\obj\Debug\net8.0\Hangman.pdb
 c:\Users\filip.scherlund\Documents\My Games\Hangman\Hangman\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
 c:\Users\filip.scherlund\Documents\My Games\Hangman\Hangman\obj\Debug\net8.0\ref\Hangman.dll
+c:\Users\filip.scherlund\Documents\My Games\Hangman\Hangman\obj\Debug\net8.0\Hangman.sourcelink.json
